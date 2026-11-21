@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/BigDito/BigDito/snake-output/snake.svg" alt="Snake animation" />
 
 ###
